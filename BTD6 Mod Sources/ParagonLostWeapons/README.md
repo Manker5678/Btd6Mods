@@ -7,6 +7,8 @@
 <h1 align="left">Apex Plasma Master
 <img align="right" alt="Download" height="155" src="https://static.wikia.nocookie.net/b__/images/b/b8/Paragon-ApexPlasmaMaster.png/revision/latest/scale-to-width-down/350?cb=20210726020749&path-prefix=bloons">
 </h1>
-test
+<ul>
+  <li>Apex Plasma Master features only 1 change, mimicking fan club buffs, it now adds a permanent buff to double dart monkey attack speed and add 3 pierce.</li>
+</ul>
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
