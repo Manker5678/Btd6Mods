@@ -1,5 +1,7 @@
-<center><img align="right" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png"></center>
-
+<h1>
+<img align="right" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
+</h1>
+    
 <br>
 
 <a href="https://github.com/Manker5678/Btd6Mods/raw/main/BTD6%20Mod%20Sources/ParagonLostWeapons/ParagonLostWeapons.dll">
