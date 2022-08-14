@@ -29,5 +29,14 @@
   <li> Ascended Shadow now comes with bigger and better Caltrops. He now shoots out 7 giant caltrops at once, each one with 35 pierce and a hit doing 500 damage. He does throw them out less often, however.</li>
 </ul>
 
+<br>
+
+<h1 align="left">Navarch Of The Seas
+<img align="right" height="145" src="https://static.wikia.nocookie.net/b__/images/7/75/Paragon-NavarchOfTheSeas.png/revision/latest/scale-to-width-down/350?cb=20211208054616&path-prefix=bloons">
+</h1>
+<ul>
+  <li> Navarch Of The Seas features a simple change to generate 2000 cash per round.</li>
+</ul>
+
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
