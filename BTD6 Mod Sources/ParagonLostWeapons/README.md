@@ -1,4 +1,4 @@
-<img align="center"  height="145" src="">
+<img align="center"  height="145" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
 
 <br>
 
