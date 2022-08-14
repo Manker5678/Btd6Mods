@@ -20,5 +20,14 @@
   <li> Glaive Dominus features no changes (at the moment) </li>
 </ul>
 
+<br>
+
+[<h1 align="left">Glaive Dominus
+<img align="right" height="155" src="(https://static.wikia.nocookie.net/b__/images/c/c8/Paragon-AscendedShadow.png/revision/latest/scale-to-width-down/350?cb=20211014000328&path-prefix=bloons)">
+</h1>
+<ul>
+  <li> Glaive Dominus features no changes (at the moment) </li>
+</ul>]
+
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
