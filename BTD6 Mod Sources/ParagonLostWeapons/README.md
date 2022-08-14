@@ -1,14 +1,11 @@
-<h1 align="center">
-<img align="center" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
-</h1>
-    
-<br>
-
 <a href="https://github.com/Manker5678/Btd6Mods/raw/main/BTD6%20Mod%20Sources/ParagonLostWeapons/ParagonLostWeapons.dll">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">ParagonLostWeapons</h1>
+<h1 align="center">ParagonLostWeapons
+    <br>
+<img align="center" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
+</h1>
 
 <h1 align="left">Apex Plasma Master
 <img align="right"  height="145" src="https://static.wikia.nocookie.net/b__/images/b/b8/Paragon-ApexPlasmaMaster.png/revision/latest/scale-to-width-down/350?cb=20210726020749&path-prefix=bloons">
