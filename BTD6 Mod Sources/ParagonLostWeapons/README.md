@@ -17,7 +17,7 @@
 <img align="right" height="145" src="https://static.wikia.nocookie.net/b__/images/2/2c/ParagonGlaiveDominus.png/revision/latest/scale-to-width-down/350?cb=20210726020750&path-prefix=bloons">
 </h1>
 <ul>
-  <li> Glaive Dominus features no changes (at the moment). </li>
+  <li>Glaive Dominus features no changes (at the moment). </li>
 </ul>
 
 <br>
@@ -26,7 +26,7 @@
 <img align="right" height="145" src="https://static.wikia.nocookie.net/b__/images/c/c8/Paragon-AscendedShadow.png/revision/latest/scale-to-width-down/350?cb=20211014000328&path-prefix=bloons">
 </h1>
 <ul>
-  <li> Ascended Shadow now comes with bigger and better Caltrops. He now shoots out 7 giant caltrops at once, each one with 35 pierce and a hit doing 500 damage. He does throw them out less often, however.</li>
+  <li>Ascended Shadow now comes with bigger and better Caltrops. He now shoots out 7 giant caltrops at once, each one with 35 pierce and a hit doing 500 damage. He does throw them out less often, however.</li>
 </ul>
 
 <br>
@@ -35,7 +35,16 @@
 <img align="right" height="145" src="https://static.wikia.nocookie.net/b__/images/7/75/Paragon-NavarchOfTheSeas.png/revision/latest/scale-to-width-down/350?cb=20211208054616&path-prefix=bloons">
 </h1>
 <ul>
-  <li> Navarch Of The Seas features a simple change to generate 2000 cash per round.</li>
+  <li>Navarch Of The Seas features a simple change to generate 2000 cash per round.</li>
+</ul>
+
+<br>
+
+<h1 align="left">Master Builder
+<img align="right" height="145" src="https://static.wikia.nocookie.net/b__/images/1/1b/Paragon-MasterBuilder.png/revision/latest/scale-to-width-down/350?cb=20220804023851&path-prefix=bloons">
+</h1>
+<ul>
+  <li>Master Builder now features extra strong Cleansing Foam. Bigger Cleansing foam can now affect 5x as many bloons. Bigger cleansing foam now also carries over 0-3-2's slowing effect, now effective on ZOMGs and lower. Affected bloons now take +3 damage.</li>
 </ul>
 
 
