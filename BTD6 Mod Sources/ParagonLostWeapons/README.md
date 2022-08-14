@@ -45,6 +45,7 @@
 </h1>
 <ul>
   <li>Master Builder now features extra strong Cleansing Foam. Bigger Cleansing foam can now affect 5x as many bloons. Bigger cleansing foam now also carries over 0-3-2's slowing effect, now effective on ZOMGs and lower. Affected bloons now take +3 damage.</li>
+  <li>Master Builder now throws out a reinforced Bloon Trap. Reinforced Bloon Traps can now eat 75,000 RBE, big enough to eat a BAD (or two) whole. </li>
 </ul>
 
 
