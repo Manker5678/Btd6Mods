@@ -22,11 +22,11 @@
 
 <br>
 
-[<h1 align="left">Glaive Dominus
-<img align="right" height="155" src="(https://static.wikia.nocookie.net/b__/images/c/c8/Paragon-AscendedShadow.png/revision/latest/scale-to-width-down/350?cb=20211014000328&path-prefix=bloons)">
+[<h1 align="left">Ascended Shadow
+<img align="right" height="155" src="https://static.wikia.nocookie.net/b__/images/c/c8/Paragon-AscendedShadow.png/revision/latest/scale-to-width-down/350?cb=20211014000328&path-prefix=bloons">
 </h1>
 <ul>
-  <li> Glaive Dominus features no changes (at the moment) </li>
+  <li> Ascended Shadow now comes with bigger and better Caltrops. He now shoots out 7 giant caltrops at once, each one with 35 pierce and a hit doing 500 damage. He does throw them out less often, however.</li>
 </ul>]
 
 
