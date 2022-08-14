@@ -1,5 +1,5 @@
 <h1>
-<img align="right" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
+<img align="center" height="200" src="https://github.com/Manker5678/Btd6Mods/blob/main/BTD6%20Mod%20Sources/ParagonLostWeapons/Icon.png">
 </h1>
     
 <br>
