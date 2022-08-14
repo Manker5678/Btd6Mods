@@ -8,7 +8,7 @@
 <img align="right" alt="Download" height="155" src="https://static.wikia.nocookie.net/b__/images/b/b8/Paragon-ApexPlasmaMaster.png/revision/latest/scale-to-width-down/350?cb=20210726020749&path-prefix=bloons">
 </h1>
 <ul>
-  <li>Apex Plasma Master features only 1 change, mimicking fan club buffs, it now adds a permanent buff to double dart monkey attack speed and add 3 pierce.</li>
+  <li>Apex Plasma Master features only 1 change, mimicking fan club buffs, it now adds a permanent buff to double attack speed and add 3 pierce to Dart Monkeys in its range.</li>
 </ul>
 
 <br>
